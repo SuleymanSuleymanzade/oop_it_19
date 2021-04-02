@@ -1,6 +1,6 @@
 # Proxy design pattern 
 
-![proxy]("./Proxy-design-pattern.jpg")
+![proxy](./Proxy-design-pattern.jpg)
 
 ### The Reason 
 #### Structural design pattern
